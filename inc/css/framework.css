@@ -1,7 +1,3 @@
-*{
-    margin: 0;
-    box-sizing: border-box;
-}
 /* Framework */
 
 /* container */
@@ -43,8 +39,4 @@
     .flex-md-4 {
         flex-basis: 33.33%;
     }
-}
-/* Header Start */
-header{
-    background-color: antiquewhite;
 }
